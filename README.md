@@ -1,2 +1,2 @@
 # live555rtsp
-support rtsp live view in android
+Base on http://www.live555.com/liveMedia/public/live.2015.08.07.tar.gz to implement.
